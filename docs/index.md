@@ -10,4 +10,4 @@
 
 Программа распространяется на условиях лицензии [Apache License](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
-(c) AngryGlossyIbis, 2020
+(c) Беков А. М. И2-17, 2020
